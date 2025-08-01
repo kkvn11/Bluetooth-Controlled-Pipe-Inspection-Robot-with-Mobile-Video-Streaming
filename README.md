@@ -28,6 +28,17 @@ Originally developed for the 10th "Hengtuo·Luang Cup" Circuit Design Contest, t
 | Wireless| HC-05 Bluetooth + WiFi Camera |
 | Power  | LM2596 voltage regulator, 12V lithium battery |
 | Structure| Modular clamping arms, compact shell, flexible mechanics |
+## 🤖 Real Robot Prototype
+
+![Robot Prototype](images/prototype_photo.png)
+
+## 📱 Mobile App Interface
+
+![Mobile App](images/app_interface.png)
+
+## 🔌 Wiring Diagram
+
+![Wiring](images/wiring_diagram.png)
 
 ---
 
