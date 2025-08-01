@@ -31,6 +31,8 @@ Originally developed for the 10th "Hengtuo·Luang Cup" Circuit Design Contest, t
 ## 🤖 Real Robot Prototype
 
 ![Robot Prototype](images/prototype_photo.png)
+![Robot Prototype](images/Robot structure.png)
+
 
 ## 📱 Mobile App Interface
 
