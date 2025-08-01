@@ -72,3 +72,4 @@ while(1) {
     a_ting();    // Stop motor
   }
 }
+📄 [Click here to read the full report](docs/PipelineCleaningRobot_Report.pdf)
