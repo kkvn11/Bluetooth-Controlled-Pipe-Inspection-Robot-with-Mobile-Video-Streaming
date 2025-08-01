@@ -44,6 +44,7 @@ Originally developed for the 10th "Hengtuo·Luang Cup" Circuit Design Contest, t
 
 ![Wiring](images/wiring_diagram.png)
 
+📄 [Click here to read the full report](docs/PipelineCleaningRobot_Report.pdf)
 ---
 
 ## 💻 Software Structure
@@ -72,4 +73,3 @@ while(1) {
     a_ting();    // Stop motor
   }
 }
-📄 [Click here to read the full report](docs/PipelineCleaningRobot_Report.pdf)
