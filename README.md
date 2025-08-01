@@ -1,4 +1,4 @@
-# 🧽 Pipeline Inspection and Cleaning Robot
+# 🧽 Bluetooth-Controlled Pipe Inspection Robot with Mobile Video Streaming
 
 This project presents a self-driven, modular **pipeline cleaning and inspection robot**, designed to operate in confined industrial piping systems. It leverages embedded control, sensor integration, and mechanical innovation to automate the detection and cleaning of internal contaminants, blockages, and damages in pipelines.
 
