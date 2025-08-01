@@ -37,6 +37,8 @@ Originally developed for the 10th "Hengtuo·Luang Cup" Circuit Design Contest, t
 ## 📱 Mobile App Interface
 
 ![Mobile App](images/app_interface.png)
+![Mobile App](images/Enteringthepipelinesite.png)
+![Mobile App](images/Mobilephonereal-timepicture.png)
 
 ## 🔌 Wiring Diagram
 
